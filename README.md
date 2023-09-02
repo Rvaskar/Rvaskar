@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rutik Vaskar</h1>
-<h3 align="center">A passionate WEB developer from India</h3>
+<h3 align="center">A passionate WEB developer from Maharastra</h3>
 
 <img align="right" alt="coding" width="400" src="![image](https://github.com/Rvaskar/Rvaskar/assets/88431535/aaafcea9-c720-4a00-92aa-c5d084ab9278)
 ">
