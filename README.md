@@ -1,7 +1,9 @@
+
 <h1 align="center">Hi 👋, I'm Rutik Vaskar</h1>
 <h3 align="center">A passionate WEB developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw1CYoh6bzV4sxYKjaOs_XTl&ust=1693728201797000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOiijaG6i4EDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="[https://example.com/your-image.jpg](https://www.lambdatest.com/resources/images/news24.gif)">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rvaskar&label=Profile%20views&color=0e75b6&style=flat" alt="rvaskar" /> </p>
 
