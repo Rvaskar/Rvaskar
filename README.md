@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Rutik Vaskar</h1>
 <h3 align="center">A passionate WEB developer from Maharastra</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/Rvaskar/Rvaskar/assets/88431535/28bd0cfc-e8f1-4715-81f1-c13f2a4e5cc0">
+<img align="right" alt="coding" width="400" src="https://github.com/Rvaskar/Rvaskar/assets/88431535/bf39ab91-4ed7-4add-b244-9284d1511d48
+">
 
 
 
