@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rutik Vaskar</h1>
 <h3 align="center">A passionate WEB developer from Maharastra</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/Rvaskar/Rvaskar/assets/88431535/aaafcea9-c720-4a00-92aa-c5d084ab9278)
-">
+<img align="right" alt="coding" width="400" src="https://github.com/Rvaskar/Rvaskar/assets/88431535/28bd0cfc-e8f1-4715-81f1-c13f2a4e5cc0">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rvaskar&label=Profile%20views&color=0e75b6&style=flat" alt="rvaskar" /> </p>
