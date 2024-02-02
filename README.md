@@ -13,7 +13,7 @@
   
 - 🔭 I’m currently working on REACT INOTEBOOK
 
-- 🌱 I’m currently learning **React.js, Pug**
+- 🌱 I’m currently learning **React.js, NEXT.JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rvaskar](https://github.com/Rvaskar)
 
