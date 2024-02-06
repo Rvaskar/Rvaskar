@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rvaskar&label=Profile%20views&color=0e75b6&style=flat" alt="rvaskar" /> </p>
 
 - Know more About my experience and my work on https://rvaskar.github.io/
-- <img src="./pr1.png" >
+ <img src="./pr1.png" >
   
 - 🔭 I’m currently working on REACT INOTEBOOK
 
