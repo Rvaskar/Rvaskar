@@ -12,13 +12,13 @@
 
 
   
-- 🔭 I’m currently working on REACT INOTEBOOK
+- 🔭 I’m currently working on Stack Overflow Clone
 
-- 🌱 I’m currently learning **React.js, NEXT.JS**
+- 🌱 I’m currently learning **NEXT.JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rvaskar](https://github.com/Rvaskar)
 
-- 📫 How to reach me **rutikkvaskar9@gmail.com**
+- 📫 How to reach me **rutikkvaskar9@gmail.com / 7875159648**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
