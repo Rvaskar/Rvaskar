@@ -14,7 +14,7 @@
   
 - 🔭 I’m currently working on Stack Overflow Clone
 
-- 🌱 I’m currently learning **NEXT.JS**
+- 🌱 I’m currently learning **NEXT.JS / TAILWIND CSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rvaskar](https://github.com/Rvaskar)
 
