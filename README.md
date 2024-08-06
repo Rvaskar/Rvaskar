@@ -18,7 +18,8 @@
 
 - 🌱 I’m currently learning **NEXT.JS / TAILWIND CSS / Redis **
 
-- 👨‍💻 My Portfolio [https://rutikvaskar.netlify.app/](https://rutikvaskar.netlify.app/)
+- 💻 My Portfolio [https://rutikvaskar.netlify.app/](https://rutikvaskar.netlify.app/)
+  
 - 👨‍💻 All of my projects are available at [https://github.com/Rvaskar](https://github.com/Rvaskar)
 
 - 📫 How to reach me **rutikkvaskar9@gmail.com / 7875159648**
