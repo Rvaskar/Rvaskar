@@ -14,9 +14,9 @@
 
 
   
-- 🔭 I’m currently working on Stack Overflow Clone
+- 🔭 I’m currently working on My Portfolio
 
-- 🌱 I’m currently learning **NEXT.JS / TAILWIND CSS**
+- 🌱 I’m currently learning **NEXT.JS / TAILWIND CSS / Redis **
 
 - 👨‍💻 My Portfolio [https://rutikvaskar.netlify.app/](https://rutikvaskar.netlify.app/)
 - 👨‍💻 All of my projects are available at [https://github.com/Rvaskar](https://github.com/Rvaskar)
