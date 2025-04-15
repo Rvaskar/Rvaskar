@@ -16,7 +16,7 @@
   
 - 🔭 I’m currently working on My Portfolio
 
-- 🌱 I’m currently learning **NEXT.JS / TAILWIND CSS / Redis **
+- 🌱 I’m currently learning **NEXT.JS / TAILWIND CSS / Redis / POSTGRESS SQL **
 
 - 💻 My Portfolio [https://rutikvaskar.netlify.app/](https://rutikvaskar.netlify.app/)
   
